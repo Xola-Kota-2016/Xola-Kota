@@ -9,7 +9,7 @@ body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
   background: #F0EFE2;
   color: #777;}
-
+  
 p
 { padding: 0 0 20px 0;
   line-height: 1.7em;}
@@ -90,7 +90,9 @@ ol li
 
 #header
 { background: #025587;
-  height: 240px;}
+  height: 168px;
+  
+}
 
 #logo
 { width: 825px;
