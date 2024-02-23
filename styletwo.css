@@ -1,6 +1,8 @@
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
   background: #F0EFE2;
+  padding-left: 20%;
+  padding-right: 20%;
   }
 
   .sidebar
@@ -13,7 +15,4 @@ body
     width: 595px;
     padding: 0;}
 
-  body{
-    padding-left: 20%;
-    padding-right: 20%;
-  }
+  
